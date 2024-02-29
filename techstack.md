@@ -3,12 +3,12 @@
 ## Tech Stack
 thachlp/jedis is built on the following main stack:
 
-- [Java](https://www.java.com) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [Java](https://www.java.com) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [JUnit](http://junit.org/) – Testing Frameworks
 - [SLF4J](http://slf4j.org/) – Log Management
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 thachlp/jedis is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [thachlp/jedis](https://github.com/thachlp/jedis)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|18<br/>Tools used|01/23/24 <br/>Report generated|
+|18<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
